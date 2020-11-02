@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-BME Research at TBL
+I'm San, a PhD candidate in BME at UNIST
 
 <!--
 **tuttelikz/tuttelikz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
