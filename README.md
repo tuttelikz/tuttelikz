@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm San, a PhD candidate in BME at UNIST  
+I'm San, a PhD candidate in Biomedical Engineering at UNIST  
 :heart: [PyTorch](https://github.com/pytorch/pytorch)
 
 <!--
