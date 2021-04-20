@@ -9,7 +9,7 @@ Here is my recent top-3:
 
 Drop me an email for wonderful techie conversations! :monkey_face:
 
-- ⚡ Fun fact: I prefer tropical house remixes & horse meat diet :D 
+- ⚡ Fun fact: I prefer tropical house remix & horse meat diet :D 
 <!--
 **tuttelikz/tuttelikz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
