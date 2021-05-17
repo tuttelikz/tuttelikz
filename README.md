@@ -1,15 +1,17 @@
-### Hi! Salem! Привет! Merhaba! 안녕! 😄 
-
-I'm San, a (lazy) PhD candidate in Biomedical Engineering at UNIST.  
-Do have little experience in computer vision, deep learning, mobile.  
-Here is my recent top-3:  
+### Hi/Salem! 😄 
+  
+My name is San, a (lazy) PhD candidate in Biomedical Engineering at Translational Biophotonics Lab, UNIST.  
+  
+I love building simple solutions for hard tasks. I seek reasoning behind how and why things actually work.  
+My (humble) experience lies within, but not limited to computer vision, deep learning & mobile platforms:  
+  
 :heart: PyTorch  
 :dizzy_face: Android  
-:grimacing: MATLAB
+:grimacing: MATLAB  
 
-Drop me an email for wonderful techie conversations! :monkey_face:
-
-- ⚡ Fun fact: I'd prefer tropical house remix & horse meat diet :D 
+- ⚡ Fun fact: I like tropical house and horse meat :monkey_face:
+  
+You could reach me through the email for any help or suggestions, although I could be late to respond ㅠㅠ
 <!--
 **tuttelikz/tuttelikz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
