@@ -8,7 +8,7 @@ I love building simple solutions for hard tasks. I seek reasoning behind how and
 :dizzy_face: Android  
 :grimacing: MATLAB  
 
-- ⚡ Fun fact: I like tropical house and horse meat :monkey_face:
+⚡ Fun fact: I like tropical house and horse meat :monkey_face:
   
 You could reach me through the email for any help or suggestions, although I could be late to respond ㅠㅠ
 <!--
