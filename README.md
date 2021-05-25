@@ -10,7 +10,7 @@ I love building simple solutions for hard tasks. I seek reasoning behind how and
 
 ⚡ Fun fact: I like tropical house and horse meat :monkey_face:
   
-You could reach me through the email for any help or suggestions, although I could be late to respond ㅠㅠ
+You could reach me through the email for any help or suggestions, although I could be late to respond due my thesis ㅠㅠ
 <!--
 **tuttelikz/tuttelikz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
