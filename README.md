@@ -1,7 +1,7 @@
 ### Hi/Salem! 😄 
   
 My name is San, a (lazy) PhD candidate in Biomedical Engineering at Translational Biophotonics Lab, UNIST.  
-  
+
 I love building simple solutions for hard tasks. I seek reasoning behind how and why things actually work. My (humble) experience lies within, but not limited to computer vision, deep learning & mobile platforms:  
   
 :heart: PyTorch  
@@ -12,13 +12,10 @@ I love building simple solutions for hard tasks. I seek reasoning behind how and
   
 You could reach me through the email for any help or suggestions, although I could be late to respond due to my dissertation ㅠㅠ
 
+<p align="center">To stay <i>connected</i>:</p>  
 <p align="center">
-|| <a href="https://scholar.google.com/citations?user=dlBzeXoAAAAJ&hl=en"><img src="./googlescholar.svg" alt="drawing" height="30"/></a> || 
-  <a href="https://www.kaggle.com/tuttelikz"><img src="./kaggle.svg" alt="drawing" height="30"/></a> || 
-<a href="https://stackoverflow.com/users/5151687/san-askaruly"><img src="./stackoverflow.svg" alt="drawing" height="30"/></a> || 
+<a href="https://www.kaggle.com/tuttelikz"><img src="./_kaggle.svg" alt="drawing" height="30"/></a>  <a href="https://scholar.google.com/citations?user=dlBzeXoAAAAJ&hl=en"><img src="./_scholar.svg" alt="drawing" height="30"/></a>  <a href="https://stackoverflow.com/users/5151687/san-askaruly"><img src="./_so.png" alt="drawing" height="30"/></a>
 </p>
-
-
 
 
 <!--
