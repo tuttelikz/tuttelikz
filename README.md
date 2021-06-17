@@ -8,10 +8,26 @@ I love building simple solutions for hard tasks. I seek reasoning behind how and
 :dizzy_face: Android  
 :grimacing: MATLAB  
 
-⚡ Fun fact: I like tropical house and horse meat :monkey_face:
+⚡ Fun fact: I like tropical house and horse meat :see_no_evil:
   
 You could reach me through the email for any help or suggestions, although I could be late to respond due to my dissertation ㅠㅠ
+
+<p align="center">
+|| <a href="https://scholar.google.com/citations?user=dlBzeXoAAAAJ&hl=en"><img src="./googlescholar.svg" alt="drawing" height="50"/></a> || 
+  <a href="https://www.kaggle.com/tuttelikz"><img src="./kaggle.svg" alt="drawing" height="50"/></a> || 
+<a href="https://stackoverflow.com/users/5151687/san-askaruly"><img src="./stackoverflow.svg" alt="drawing" height="50"/></a> || 
+</p>
+
+
+
+
 <!--
+
+<div><a href="https://www.kaggle.com/tuttelikz"><img src="./kaggle.svg" alt="drawing" height="100"/></a></div>
+<div><a href="https://stackoverflow.com/users/5151687/san-askaruly"><img src="./stackoverflow.svg" alt="drawing" height="50"/></a></div>
+<div><a href="https://scholar.google.com/citations?user=dlBzeXoAAAAJ&hl=en"><img src="./googlescholar.svg" alt="drawing" height="50"/></a></div>
+
+
 **tuttelikz/tuttelikz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 BME Research at TBL
