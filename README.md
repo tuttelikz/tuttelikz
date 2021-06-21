@@ -14,7 +14,7 @@ You could reach me through the email for any help or suggestions, although I cou
 
 <p align="center">To stay <i>connected</i>:</p>  
 <p align="center">
-<a href="https://www.kaggle.com/tuttelikz"><img src="./_kaggle.svg" alt="drawing" height="30"/></a>  <a href="https://scholar.google.com/citations?user=dlBzeXoAAAAJ&hl=en"><img src="./_scholar.svg" alt="drawing" height="30"/></a>  <a href="https://stackoverflow.com/users/5151687/san-askaruly"><img src="./_so.png" alt="drawing" height="30"/></a>
+<a href="https://www.kaggle.com/tuttelikz"><img src="./_kaggle.svg" alt="drawing" height="30"/></a>  <a href="https://scholar.google.com/citations?user=dlBzeXoAAAAJ&hl=en"><img src="./_scholar.svg" alt="drawing" height="30"/></a>  <a href="https://stackoverflow.com/users/5151687/san-askaruly"><img src="./_so.png" alt="drawing" height="30"/></a> <a href="https://www.linkedin.com/in/askaruly/"><img src="./_linkedin.svg" alt="drawing" height="30"/></a>
 </p>
 
 
