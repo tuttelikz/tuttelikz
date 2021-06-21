@@ -1,8 +1,8 @@
 ### Hi/Salem! 😄 
   
-My name is San, a (lazy) PhD candidate in Biomedical Engineering at Translational Biophotonics Lab, UNIST.  
+My name is San, a (soon graduating) PhD candidate in Biomedical Engineering at Translational Biophotonics Lab, UNIST.  
 
-I love building simple solutions for hard tasks. I seek reasoning behind how and why things actually work. My (humble) experience lies within, but not limited to computer vision, deep learning & mobile platforms:  
+I love building simple solutions for hard tasks. I seek reasoning behind how and why things actually work. My (humble) experience lies within, but not limited to computer vision, deep learning & mobile platforms for biomedical applications:  
   
 :heart: PyTorch  
 :dizzy_face: Android  
