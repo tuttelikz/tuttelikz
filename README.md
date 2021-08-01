@@ -5,7 +5,7 @@ My name is San, a (lazy) PhD candidate in Biomedical Engineering at Translationa
 I love building simple solutions for hard tasks. I seek reasoning behind how and why things actually work. My (humble) experience lies within, but not limited to computer vision, deep learning & mobile platforms for biomedical applications:  
 
 <p align="center">
-<img src="./_lang.png" alt="drawing" height="120"/>
+<img src="./_lang.png" alt="drawing" height="80"/>
 </p>
 
 ⚡ Fun fact: I like tropical house and horse meat :see_no_evil:
