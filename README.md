@@ -17,7 +17,6 @@ You could reach me through the email for any help or suggestions, although I cou
 <a href="https://www.kaggle.com/tuttelikz"><img src="./_kaggle.svg" alt="drawing" height="30"/></a>  <a href="https://scholar.google.com/citations?user=dlBzeXoAAAAJ&hl=en"><img src="./_scholar.svg" alt="drawing" height="30"/></a>  <a href="https://stackoverflow.com/users/5151687/san-askaruly"><img src="./_so.png" alt="drawing" height="30"/></a> <a href="https://www.linkedin.com/in/askaruly/"><img src="./_linkedin.svg" alt="drawing" height="30"/></a>
 </p>
 
-![Metrics](https://metrics.lecoq.io/tuttelikz?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&topics=1&posts=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&topics.mode=starred&topics.sort=stars&topics.limit=8&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=.user.login&config.timezone=Asia%2FSeoul)
 
 <!--
 
