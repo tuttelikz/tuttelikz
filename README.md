@@ -3,14 +3,10 @@
 My name is San, a (lazy) PhD candidate in Biomedical Engineering at Translational Biophotonics Lab, UNIST.  
 
 I love building simple solutions for hard tasks. I seek reasoning behind how and why things actually work. My (humble) experience lies within, but not limited to computer vision, deep learning & mobile platforms for biomedical applications:  
-  
-:heart: PyTorch  
-:dizzy_face: Android  
-:grimacing: MATLAB  
+
+![Metrics](https://metrics.lecoq.io/tuttelikz?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html%2C%20css&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FSeoul)
 
 ⚡ Fun fact: I like tropical house and horse meat :see_no_evil:
-
-![Metrics](https://metrics.lecoq.io/tuttelikz?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=full-year&languages.ignored=html%2C%20css&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FSeoul)
 
 You could reach me through the email for any help or suggestions, although I could be late to respond due to my dissertation ㅠㅠ
 
