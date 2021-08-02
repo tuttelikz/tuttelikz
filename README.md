@@ -8,7 +8,7 @@ I love building simple solutions for hard tasks. I seek reasoning behind how and
 
 ⚡ Fun fact: I like tropical house and horse meat :see_no_evil:
 
-You could reach me through the email for any help or suggestions, although I could be late to respond due to my dissertation ㅠㅠ
+You could reach me via email for any help/suggestions, although I could be late to respond due to my dissertation ㅠㅠ
 
 <p align="center">To stay <i>connected</i>:</p>  
 <p align="center">
