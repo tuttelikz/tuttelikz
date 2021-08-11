@@ -2,9 +2,9 @@
   
 I am San, a (lazy) PhD candidate in Biomedical Engineering at Translational Biophotonics Lab, UNIST.  
 
-I love building efficient solutions for hard tasks. I seek reasoning behind how and why things actually work. My (humble) experience lies within, but not limited to computer vision, deep learning & mobile platforms for biomedical applications:  
+I love building simple solutions for hard tasks. I seek reasoning behind how and why things actually work. My (humble) experience lies within, but not limited to computer vision, deep learning & mobile platforms for biomedical applications:  
   
-![Metrics](https://metrics.lecoq.io/tuttelikz?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html%2C%20css&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FSeoul)
+![Metrics](https://metrics.lecoq.io/tuttelikz?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html%2C%20css%2C%20jupyter%20notebook%2C%20m&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FSeoul)
 
 ⚡ Fun fact: I like tropical house and horse meat :see_no_evil:
 
@@ -18,11 +18,6 @@ You could reach me via [email](mailto:s.askaruly@gmail.com) for any help/suggest
 
   
 <!--
-
-<div><a href="https://www.kaggle.com/tuttelikz"><img src="./kaggle.svg" alt="drawing" height="100"/></a></div>
-<div><a href="https://stackoverflow.com/users/5151687/san-askaruly"><img src="./stackoverflow.svg" alt="drawing" height="50"/></a></div>
-<div><a href="https://scholar.google.com/citations?user=dlBzeXoAAAAJ&hl=en"><img src="./googlescholar.svg" alt="drawing" height="50"/></a></div>
-
 
 **tuttelikz/tuttelikz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
