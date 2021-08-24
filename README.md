@@ -1,6 +1,6 @@
 ### Hi/Salem! 👋 
   
-I am San [ Сан | 산 | 三 | さん ]  
+I am San [ Сан | 산 | 三 | さん ].  
 
 Currently a (lazy) PhD candidate in Biomedical Engineering at Translational Biophotonics Lab, UNIST, with EE background.  
 
