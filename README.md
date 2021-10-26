@@ -1,16 +1,16 @@
 ### Hi/Salem! 👋 
   
-I am San [ Сан | 산 | 三 | さん ].  
+I am San, currently a *graduating* PhD candidate in BME at Translational Biophotonics Lab, UNIST.  
 
-Currently a *graduating* PhD candidate in Biomedical Engineering at Translational Biophotonics Lab, UNIST.  
+I love building fundamental, yet lightweight solutions for hard tasks. I seek reasoning behind how and why things actually work. My (humble) experience lies within, but not limited to computer vision, deep learning & mobile platforms for biomedical applications.  
 
-I love building fundamental, yet lightweight solutions for hard tasks. I seek reasoning behind how and why things actually work. My (humble) experience lies within, but not limited to computer vision, deep learning & mobile platforms for biomedical applications:  
-  
-![Metrics](https://metrics.lecoq.io/tuttelikz?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html%2C%20css%2C%20jupyter%20notebook%2C%20m&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FSeoul)
+To learn more, please have a look on my [personal website](https://tuttelikz.github.io/about/).
 
-⚡ Fun fact: I like tropical house and horse meat :see_no_evil:
+<!-- ![Metrics](https://metrics.lecoq.io/tuttelikz?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html%2C%20css%2C%20jupyter%20notebook%2C%20m&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FSeoul) -->
 
-You could reach me via [email](mailto:s.askaruly@gmail.com) for any help/suggestions, although I could be late to respond due to my dissertation ㅠㅠ
+<!-- ⚡ Fun fact: I like tropical house and horse meat :see_no_evil:
+ -->
+<!-- You could reach me via [email](mailto:s.askaruly@gmail.com) for any help/suggestions, although I could be late to respond due to my dissertation ㅠㅠ -->
 
 <p align="center">To stay <i>connected</i>:</p>  
 <p align="center">
