@@ -1,4 +1,4 @@
-### Hi/Salem! 👋 
+### 👋 Hi!  
   
 I'm San, a *graduating* PhD candidate in BME at Translational Biophotonics Lab, UNIST.  
 
