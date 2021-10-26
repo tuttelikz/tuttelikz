@@ -2,7 +2,7 @@
   
 I am San [ Сан | 산 | 三 | さん ].  
 
-Currently a (lazy) PhD candidate in Biomedical Engineering at Translational Biophotonics Lab, UNIST, with EE background.  
+Currently a PhD candidate in Biomedical Engineering at Translational Biophotonics Lab, UNIST, with EE background.  
 
 I love building fundamental, yet lightweight solutions for hard tasks. I seek reasoning behind how and why things actually work. My (humble) experience lies within, but not limited to computer vision, deep learning & mobile platforms for biomedical applications:  
   
