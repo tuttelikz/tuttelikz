@@ -2,7 +2,7 @@
   
 I'm San, a *graduating* PhD candidate in BME at Translational Biophotonics Lab, UNIST.  
 
-I love building fundamental, yet lightweight solutions for hard tasks. I seek reasoning behind how and why things actually work. My (humble) experience lies within, but not limited to computer vision, deep learning & mobile platforms for biomedical applications.  
+I love building fundamental, yet lightweight solutions for hard tasks. I seek reasoning behind how and why things actually work. My (humble) experience lies within, but not limited to computer vision, deep learning & mobile platforms.  
 
 To learn more, please have a look on my [personal website](https://tuttelikz.github.io/about/).
 
