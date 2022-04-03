@@ -2,7 +2,7 @@
   
 I'm San, a research engineer/scientist with background in biomedical AI and digital healthcare.
 
-I have completed my Ph.D. in Biomdical Engineering from Ulsan National Institute of Science and Technology. 
+I have completed my Ph.D. in Biomedical Engineering from Ulsan National Institute of Science and Technology. 
 
 Open to new opportunities.
 
