@@ -1,8 +1,8 @@
 ### 👋 Hi!  
   
-I'm San, a Ph.D. graduate in BME from Translational Biophotonics Lab, UNIST.  
+I'm San, a research engineer/scientist with background in biomedical AI and digital healthcare.
 
-I am a research engineer/scientist with background in biomedical AI and digital healthcare.
+I am Ph.D. graduate in BME from Translational Biophotonics Lab, UNIST.  
 
 To learn more, please have a look on my [personal website](https://tuttelikz.github.io/about/).
 
