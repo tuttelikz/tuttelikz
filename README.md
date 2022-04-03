@@ -6,7 +6,7 @@ I have completed my Ph.D. in Biomdical Engineering from Ulsan National Institute
 
 Open to new opportunities.
 
-To learn more, please have a look on my [personal website](https://tuttelikz.github.io/about/).
+To learn more, please have a look on my [personal website](https://tuttelikz.github.io/about/) and [LinkedIn](https://www.linkedin.com/in/tuttelikz/).
 
 <!-- ![Metrics](https://metrics.lecoq.io/tuttelikz?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html%2C%20css%2C%20jupyter%20notebook%2C%20m&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FSeoul) -->
 
@@ -15,10 +15,10 @@ To learn more, please have a look on my [personal website](https://tuttelikz.git
 <!-- You could reach me via [email](mailto:s.askaruly@gmail.com) for any help/suggestions, although I could be late to respond due to my dissertation ㅠㅠ -->
 
 
-<p align="center">More:</p>  
+<!-- <p align="center">More:</p>  
 <p align="center">
 <a href="https://www.linkedin.com/in/askaruly/"><img src="./_linkedin.svg" alt="drawing" height="30"/></a> <a href="https://scholar.google.com/citations?user=dlBzeXoAAAAJ&hl=en"><img src="./_scholar.svg" alt="drawing" height="30"/></a>
-</p>
+</p> -->
 
 <!-- <p align="center">To stay <i>connected</i>:</p>  
 <p align="center">
