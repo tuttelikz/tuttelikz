@@ -4,7 +4,7 @@ I'm San, a research engineer/scientist with background in digital healthcare.
 
 I have completed my Ph.D. in Biomedical Engineering from UNIST.
 
-Open to new opportunities, ping me for suggestions.
+Open to new opportunities; ping me for suggestions.
 
 To learn more, please have a look on my [personal website](https://tuttelikz.github.io/about/) and [LinkedIn](https://www.linkedin.com/in/tuttelikz/).
 
