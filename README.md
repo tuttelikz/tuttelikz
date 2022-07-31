@@ -1,6 +1,6 @@
 ### 👋 Hi!  
   
-I'm San, a research engineer/scientist with background in biomedical AI and digital healthcare.
+I'm San, a research engineer/scientist with background digital healthcare.
 
 I have completed my Ph.D. in Biomedical Engineering from Ulsan National Institute of Science and Technology. 
 
