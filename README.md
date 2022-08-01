@@ -1,6 +1,6 @@
 ### 👋 Hi!  
   
-I'm San, a research engineer/scientist with background in digital healthcare.
+I'm San, a research engineer with background in digital healthcare.
 
 I have completed my Ph.D. in Biomedical Engineering from UNIST.
 
