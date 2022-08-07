@@ -4,7 +4,7 @@ I'm San, a research engineer with background in digital healthcare.
 
 I have completed my Ph.D. in Biomedical Engineering from UNIST.
 
-Open to new ops; ping me to talk shop :)
+Open to new ops; feel free to ping me to talk shop.
 
 Please refer to [email](mailto:s.askaruly@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tuttelikz/) for reaching out.
 
