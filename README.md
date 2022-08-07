@@ -6,7 +6,7 @@ I have completed my Ph.D. in Biomedical Engineering from UNIST.
 
 Open to new ops; ping me to talk shop :)
 
-Please refer to [email](s.askaruly@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tuttelikz/) for reaching out.
+Please refer to [email](mailto:s.askaruly@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tuttelikz/) for reaching out.
 
 <!-- ![Metrics](https://metrics.lecoq.io/tuttelikz?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html%2C%20css%2C%20jupyter%20notebook%2C%20m&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FSeoul) -->
 
