@@ -2,7 +2,7 @@
   
 I'm San, a research engineer with background in digital healthcare.
 
-I have completed my Ph.D. in Biomedical Engineering from UNIST.
+I am completing my Ph.D. in Biomedical Engineering from UNIST.
 
 Open to new ops; feel free to ping me for talking shop.
 
